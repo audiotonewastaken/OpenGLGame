@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLGame", "OpenGLGame.vcxproj", "{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Debug|Win32.Build.0 = Debug|Win32
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Debug|x64.ActiveCfg = Debug|x64
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Debug|x64.Build.0 = Debug|x64
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Debug|x86.Build.0 = Debug|Win32
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Release|Win32.ActiveCfg = Release|Win32
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Release|Win32.Build.0 = Release|Win32
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Release|x64.ActiveCfg = Release|x64
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Release|x64.Build.0 = Release|x64
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Release|x86.ActiveCfg = Release|Win32
+		{C9DDB7DD-0DD7-410A-A01F-E87E8A2E965A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDA6643-1078-4888-AEEB-8D79E0DBADBD}
+	EndGlobalSection
+EndGlobal
